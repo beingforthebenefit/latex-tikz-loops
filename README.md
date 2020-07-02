@@ -4,4 +4,4 @@ Several examples of concise ways to make complicated graphs using the `LaTeX` pa
 # Author
 Gerald Todd
 
-[geraldtodd.dev](https://geraldtodd.dev)
+[gtodd.dev](https://gtodd.dev)
